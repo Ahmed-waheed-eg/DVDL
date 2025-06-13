@@ -14,7 +14,7 @@ This project was built using traditional yet powerful Microsoft technologies, wi
 - *Windows Forms* – for creating the user interface.
 - *ADO.NET* – for direct data access and interaction with SQL Server.
 - *SQL Server* – as the relational database backend.
-- *3-Tier Architecture* – separating the project into:
+- *N-Tier Architecture* – separating the project into:
   - *Presentation Layer* (UI)
   - *Business Logic Layer (BLL)*
   - *Data Access Layer (DAL)*
