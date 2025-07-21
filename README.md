@@ -36,7 +36,8 @@ The system supports the following core services (all integrated with fee and sta
 - Full user and person management modules
 
 ---
-
+## 🖼 Demo:
+🔗[Watch on YouTube](https://youtu.be/d3NBVGlUD7Q?si=K3XIEG4ikERzay9A)
 ## 🖼 Screenshots
 
 ### 🔐 Login Screen 
